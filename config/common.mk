@@ -132,6 +132,7 @@ PRODUCT_PACKAGES += \
 
 # Sauces packages
 PRODUCT_PACKAGES += \
+    GalleryGoPrebuilt \
     LatinIMEGooglePrebuilt \
     Lawnchair \
     SoundPickerPrebuilt
