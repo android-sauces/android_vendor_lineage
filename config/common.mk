@@ -132,7 +132,9 @@ PRODUCT_PACKAGES += \
 
 # Sauces packages
 PRODUCT_PACKAGES += \
-    Lawnchair
+    LatinIMEGooglePrebuilt \
+    Lawnchair \
+    SoundPickerPrebuilt
 
 # Sauces overlays
 PRODUCT_PACKAGE_OVERLAYS += vendor/lineage/overlay/lawnchair
