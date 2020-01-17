@@ -132,7 +132,11 @@ PRODUCT_PACKAGES += \
 
 # Sauces packages
 PRODUCT_PACKAGES += \
+    CalendarStorage \
     GalleryGoPrebuilt \
+    GoogleCalculator \
+    GoogleCalendar \
+    GoogleDeskClock \
     LatinIMEGooglePrebuilt \
     Lawnchair \
     SoundPickerPrebuilt
