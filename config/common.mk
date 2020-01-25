@@ -119,24 +119,15 @@ PRODUCT_PACKAGES += \
     bootanimation.zip
 
 # AOSP packages
-PRODUCT_PACKAGES += \
-    ExactCalculator \
-    Exchange2 \
-    Terminal
+#PRODUCT_PACKAGES += \
 
 # Lineage packages
 PRODUCT_PACKAGES += \
-    AudioFX \
     Backgrounds \
     LineageParts \
     LineageSettingsProvider \
-    LineageSetupWizard \
-    Eleven \
-    Jelly \
     LockClock \
     Profiles \
-    TrebuchetQuickStep \
-    Updater \
     WeatherProvider
 
 # Accents
